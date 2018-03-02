@@ -39,14 +39,13 @@ career:
 
 technicalSkills:
   list:
-    - tr: "Impulsive, creative and very social"
-    - tr: "Heart and soul of the Ninja Turtles"
-    - tr: "Master of the Kusarigama and nunchucks"
-    - tr: "Labeled as 'The Wild One' and 'The Party Dude'"
-    - tr: "First of the turtles to taste pizza"
-    - tr: "Very proud of his talent for naming thing"
-  list:
-    - tr: "Test"
+    - tr: "Windows XP, Vista, 7, 8, 10; Windows Server 2003, 2008, 2012; Ubuntu, FreeBSD (FreeNAS); MacOS"
+    - tr: "Hardware repair/installation: Hard-drive, RAM, NIC, etc.; Thermal Label Printers; Barcode Scanner Configuration"
+    - tr: "Administration: SQL Server Management Studio (SQL Server 2012); SQL Server Reporting Services; Domain Services; Exchange Office365"
+    - tr: "Networking: DNS, DHCP, VPNs"
+    - tr: "Programming: C#/.NET, Batch scripts, SQL, C++, Java, Nativescript"
+    - tr: "General: LaTeX, Office Suite, Comfortable with CLIs"
+    - tr: "Soft-skills: Organized, Documentation, Interpersonal skills"
   backend:
    - name: Ninjutsu
      level: 90
